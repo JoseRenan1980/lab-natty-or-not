@@ -23,7 +23,7 @@ Criação de um podcast curto usando Inteligência Artificial Generativa, explor
 5. Publicação no YouTube.
 
 ## 🚀 Resultados
-- Vídeo publicado: https://youtube.com/shorts/1FTVR3gzvSY?feature=share
+- Vídeo publicado: https://youtu.be/vhBVlDuRS00?si=r6sdnh9V2IR5TGpU
 - Formato: Shorts (<60s)
 - Hashtag: #LabDIONattyOrNot
 
