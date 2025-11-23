@@ -3,6 +3,12 @@
 ## 📒 Descrição
 Criação de um podcast curto usando Inteligência Artificial Generativa, explorando o tema “Natural ou Fake Natty?” e provocando a audiência sobre autenticidade digital. O conteúdo foi produzido e editado para publicação como YouTube Shorts.
 
+## 🎬 Arquivos do Projeto
+
+- [🎧 Podcast em MP4](./assets/podcast.mp4)
+- ![🖼️ Capa do Podcast](./assets/capa.png)
+
+
 ## 🤖 Tecnologias utilizadas
 - IA generativa para roteiro
 - Clipchamp para edição
